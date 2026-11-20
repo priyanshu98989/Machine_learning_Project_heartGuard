@@ -7,9 +7,6 @@ __pycache__/
 node_modules/
 dist/
 .vite/
-*.joblib
-backend/ml/*.joblib
-backend/data/*.csv
 .DS_Store
 Thumbs.db
 *.log
